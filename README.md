@@ -1,0 +1,20 @@
+# Assigment
+Add image,vidoe and Also Embed map location in this Assigment
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Day 1</title>
+</head>
+<body>
+<h1>  No More Public Gatherings in Minar-e-Pakistan</h1>
+<img src="./photo-1595426496987-37c7113b24a6.jfif" width="600px" height="400px"></img>
+<h2>Vidoe of  Minar-e-Pakistan</h2>
+ <br><iframe width="560" height="315" src="https://www.youtube.com/embed/GsI9whRsGlo?si=ErpGKwkQmEInAh86" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>></br>
+<p>The Punjab government has decided to impose a ban on political gatherings in Lahore’s Greater Iqbal Park, which is the home to the historic Minar-e-Pakistan, until further orders.</p>
+<p>The development emerged from a recent meeting held with Chief Minister (CM) Punjab, Hamza Shehbaz, in the chair. During the meeting, the CM was informed that the provincial exchequer incurred a loss of Rs. 5 million due to the recent political gathering at Greater Iqbal Park.</p>
+<p>As a result, CM Hamza Shehbaz issued directions to ban public gatherings at Greater Iqbal Park, ordering the authorities to ensure the ban is observed in letter and spirit.</p>
+<h2>Location Of  Minar-e-Pakistan</h2>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3398.508651021966!2d74.30691007439461!3d31.59251934357607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39191c82d18c2ced%3A0x1aa4688a984fdde1!2sMinar-e-Pakistan!5e0!3m2!1sen!2s!4v1697628474110!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</body>
+</html>
